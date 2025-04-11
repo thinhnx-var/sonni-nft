@@ -1,3 +1,6 @@
+## sonni-nft
+## Collection NFT SOLANA WITH TOKEN METADATA (METAPLEX)
+
 ### Step 1: Install Tools
 - Run the following command to install dependencies:
     pnpm install
@@ -14,5 +17,4 @@
 ### Step 4: Run Code
 - Execute the following command to start the development process:
     pnpm run dev with each function# Collection_NFT
-# Collection NFT SOLANA WITH TOKEN METADATA (METAPLEX)
-# sonni-nft
+
