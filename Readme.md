@@ -1,4 +1,4 @@
-### Step 1: Install Liberty
+### Step 1: Install Tools
 - Run the following command to install dependencies:
     pnpm install
 ### Step 2: Configure Environment Variables
